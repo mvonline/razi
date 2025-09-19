@@ -1,2 +1,6 @@
-asasasas
-sdasd
+1- create new branch   git checkout -b "newbranch"
+1-1- switch branch git checkout "existingbranch"
+2- add new files   git add filename 
+3- commit to repo
+4- push to remote repo
+5- pull the changes
